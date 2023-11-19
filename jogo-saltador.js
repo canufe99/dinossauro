@@ -37,7 +37,7 @@ personagem.posicaoY = canvasHeight - personagem.altura;
 let obstaculos = [];
 
 let velocidadeY = 0;
-let velocidadeX = -5;
+let velocidadeX = -3;
 let gravidade = .4;
 
 iniciarBotao.addEventListener('click', iniciarJogo)
